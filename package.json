@@ -2,7 +2,7 @@
   "name": "twitter-bot",
   "version": "1.0.0",
   "description": "Bot automatizado para Twitter con respuestas inteligentes",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "node index.js"
