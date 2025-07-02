@@ -1,0 +1,27 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Bot automatizado para Twitter con respuestas inteligentes",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "cron": "^4.3.1",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "twitter-api-v2": "^1.24.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "automation",
+    "social-media"
+  ],
+  "author": "Carlos Falconi",
+  "license": "MIT"
+}
